@@ -119,7 +119,7 @@ The repository contains the following files:
 
 ### Dashboard Screenshot
 
-(Add your dashboard screenshot here)
+!( dashboard screenshot ) (https://github.com/Kirubasankar-K-R/BigBasket-Sales-Dashboard-Excel-Project/blob/main/Big%20Basket%20image.png)
 
 ---
 
