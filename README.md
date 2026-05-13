@@ -117,9 +117,7 @@ The repository contains the following files:
 
 ## 10. Dashboard Preview
 
-### Dashboard Screenshot
-
-!( dashboard screenshot ) (https://github.com/Kirubasankar-K-R/BigBasket-Sales-Dashboard-Excel-Project/blob/main/Big%20Basket%20image.png)
+![Dashboard Screenshot] (https://github.com/Kirubasankar-K-R/BigBasket-Sales-Dashboard-Excel-Project/blob/main/Big%20Basket%20image.png)
 
 ---
 
